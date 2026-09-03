@@ -1,0 +1,4 @@
+# ik_b
+# shape (1,), dtype int64, range [3, 3]
+#
+[3]

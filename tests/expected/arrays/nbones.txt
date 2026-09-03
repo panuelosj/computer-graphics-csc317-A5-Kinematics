@@ -1,0 +1,4 @@
+# nbones
+# shape (), dtype int64, range [4, 4]
+#
+4
